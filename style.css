@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #4285f4;
+    background-color: #f10707;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -30,7 +30,7 @@ article {
 }
 
 article h2 {
-    color: #4285f4;
+    color: #f10707;
 }
 
 footer {
